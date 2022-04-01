@@ -31,7 +31,6 @@ I am Jose Manuel from Colombia 🟡, I enjoy learning new technologies and progr
 
 <hr color="white">
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 
