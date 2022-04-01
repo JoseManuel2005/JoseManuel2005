@@ -19,11 +19,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <a href="https://github.com/JoseManuel2005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseManuel2005&show_icons=true&theme=github_darka&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuel2005&layout=compact&langs_count=7&theme=github_dark"/>
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseManuel2005&theme=tokyonight &count_private=true&show_icons=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuel2005&layout=compact&theme=tokyonight"/>
 </div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoseManuel2005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-manuel-palma-oquendo-b9310b211/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/josempalmoq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/josempo2005)  
+###Skills 
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
+
+
+
+
+
+</div>
 
