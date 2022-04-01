@@ -6,19 +6,14 @@ I am Jose Manuel from Colombia 🟡, I enjoy learning new technologies and progr
 
 <hr color="white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuel2005&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseManuel2005&show_icons=true&theme=nord)  
+
 
 ![Profile views](https://gpvc.arturio.dev/JoseManuel2005)  
 
 
-<hr color="white">
 
 ### Skills 
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" HSPACE="15" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" HSPACE="15" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -29,7 +24,10 @@ I am Jose Manuel from Colombia 🟡, I enjoy learning new technologies and progr
 </div>
 
 
-<hr color="white">
+
+
+
+
 
 
 
