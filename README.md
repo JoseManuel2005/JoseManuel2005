@@ -1,14 +1,19 @@
-### Hi there!👋, welcome to my profile, my name is Jose Manuel Palma Oquendo.
+### Hi there!👋
 
 
 
-I am Jose Manuel from Colombia 🟡, I enjoy learning new technologies and programming lenguajes, I have experience in programming lenguajes such as JavaScript, Java, C++ and Python. I love sports ⚽ and superheroes 🕷.  
+I am Jose Manuel from Colombia 🟡, I enjoy learning new technologies and programming lenguajes, I have experience in programming lenguajes such as JavaScript, Java, C++ and Python. I love sports ⚽ and superheroes 🕷. 
+
 <hr color="white">
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseManuel2005&theme=tokyonight &count_private=true&show_icons=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuel2005&layout=compact&theme=tokyonight"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuel2005&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseManuel2005&show_icons=true&theme=nord)  
+
+![Profile views](https://gpvc.arturio.dev/JoseManuel2005)  
+
 
 <hr color="white">
 
