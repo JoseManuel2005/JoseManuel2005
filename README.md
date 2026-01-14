@@ -88,4 +88,26 @@ I enjoy building **clean, functional and scalable applications** that solve real
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZjN25wbWk5Y3k4bXFrODI4cWVpOXgyNms3cjNpenB2aG9mZmhkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TJGEDDEfnFdsOklnZe/giphy.gif" width="30" style="vertical-align: middle; margin-right: 5px;"> Contributions
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoseManuel2005/JoseManuel2005/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkxN2Q0anZqNHZqdGtkN21rNW93MWZsdGRmanRiMHFjNmxndmEwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fcU03QTYVVcJs1jKIa/giphy.gif" width="30" style="vertical-align: middle; margin-right: 5px;"> Connect With Me
+
+<p align="center">
+<a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=E5D57E"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=E5D57E"/>
+  </a>
+
+  <a href="https://www.instagram.com/TU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E5D57E"/>
+  </a>
+
+  <a href="mailto:TU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=E5D57E"/>
+  </a>
+</p>
